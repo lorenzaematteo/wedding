@@ -4,6 +4,7 @@ title: Getting there
 categories: directions
 permalink: /:categories/index.html
 featured-img: siena
+summary:  Directions to Siena and the wedding venue
 ---
 
 ## Table of contents
