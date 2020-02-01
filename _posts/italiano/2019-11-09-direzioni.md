@@ -5,6 +5,7 @@ categories: ita comearrivare
 permalink: /:categories/index.html
 featured-img: siena
 summary:  Indicazioni per Siena e location del matrimonio
+language: ita
 ---
 
 

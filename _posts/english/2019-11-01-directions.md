@@ -5,6 +5,7 @@ categories: directions
 permalink: /:categories/index.html
 featured-img: siena
 summary:  Directions to Siena and the wedding venue
+language: eng
 ---
 
 ## Table of contents
