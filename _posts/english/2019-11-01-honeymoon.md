@@ -5,6 +5,7 @@ categories: honeymoon
 permalink: /:categories/index.html
 featured-img: honeymoon
 language: eng
+summary:  Help us realise the honeymoon of our dreams!
 ---
 
 
