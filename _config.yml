@@ -12,7 +12,7 @@ baseurl: "/wedding" # the subpath of your site, e.g. /blog
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Our Honeymoon', link: '/honeymoon/'}
+  - {name: 'Gift idea', link: '/honeymoon/'}
   - {name: 'Tips & recommendations', link: '/tipsandrecommendations'}
   - {name: 'Directions', link: '/directions'}
   - {name: 'Italiano', link: '/ita'} 
@@ -20,7 +20,7 @@ navigation: # Navigation links
 
 navigation_ita: 
   - {name: 'Home', link: '/ita/'}
-  - {name: 'Luna di miele', link: '/ita/lunadimiele/'}
+  - {name: 'Idee regalo', link: '/ita/lunadimiele/'}
   - {name: 'Consigli', link: '/ita/consigli'}
   - {name: 'Come arrivare', link: '/ita/comearrivare'}
   - {name: 'English', link: '/'} 

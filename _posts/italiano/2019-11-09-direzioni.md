@@ -20,7 +20,7 @@ language: ita
 
 In caso arriviate da fuori Italia, consigliamo i seguenti aeroporti:
 
-* [Pisa - Toscana](#pisa) - *Il piu' vicino e probabilmente il piu' economico*
+* [Pisa - Toscana](#pisa) - *Il più  vicino e probabilmente il più  economico*
 * [Perugia - Umbria](#perugia) - *Approx 1,30h in macchina*
 
 <br>
@@ -28,7 +28,7 @@ In caso arriviate da fuori Italia, consigliamo i seguenti aeroporti:
 ## Pisa
 
 * **Aeroporto:** *Aeroporto Internazionale Galileo Galilei Pisa*
-* **Indirizzo:** *Piazzale D'ascanio, 1, 56121 Pisa PI, Italia*
+* **Indirizzo:** *Piazzale D'Ascanio, 1, 56121 Pisa PI, Italia*
 <br>
 
 Per arrivare a **Siena** ci sono le seguenti opzioni:
