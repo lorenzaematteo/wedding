@@ -23,6 +23,7 @@ navigation_ita:
   - {name: 'Idee regalo', link: '/ita/lunadimiele/'}
   - {name: 'Consigli', link: '/ita/consigli'}
   - {name: 'Come arrivare', link: '/ita/comearrivare'}
+  - {name: 'Covid', link: '/ita/consigli/covid'}
   - {name: 'English', link: '/'} 
   - {name: 'Cerca', link: '/search/'}
 
