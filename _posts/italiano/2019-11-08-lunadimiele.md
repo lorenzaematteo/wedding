@@ -39,7 +39,6 @@ Saremmo molto grati se ci aiutaste a realizzare questo sogno!
 ### Per pagamenti dall'Italia 🇮🇹
    &nbsp;&nbsp; ***IBAN:*** GB04 REVO 0099 7093 7003 55
    &nbsp;&nbsp; ***BIC:*** REVOGB21
-   &nbsp;&nbsp; ***Beneficiario:*** Matteo Mori
 
 
 
