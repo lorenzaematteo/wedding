@@ -76,6 +76,8 @@ Consultate la mappa sottostante per indicazioni da Siena. Il tragitto richiede a
 
 ## Arrivare alla cerimonia
 
-- **Indirizzo:** *Sala del Concistoro, Palazzo Pubblico, Piazza del Campo 1, 53100 SI, Italy*
+- **Indirizzo:** *Cortile del Podestà, Piazza del Campo 1, 53100 SI, Italy*
 
-Abbiamo organizzato un trasporto via navetta per la sala della cerimonia, riservato agli ospiti dell'Agriturismo. Per ulteriori informazioni, consultate la pagina [Consigli per la giornata](https://lorenzaematteo.github.io/wedding/ita/consigli/).
+Siena offre numerosi parcheggi (il più grande è il parcheggio alla Fortezza Medicea) a circa 10-15 minuti a piedi da Piazza del Campo.
+
+In caso vogliate arrivare con la macchina direttamente in Piazza del Campo, è necessario un permesso dal Comune di Siena. Noi avremo a disposizione fino a 10 permessi da rilasciare ai nostri invitati. Contattaci per più informazioni. 
